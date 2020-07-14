@@ -45,6 +45,7 @@ int interpolation_search (int ar[], int value, int size)
   }
 }
 
+/*main function starts here*/
 
 int main()
 {
